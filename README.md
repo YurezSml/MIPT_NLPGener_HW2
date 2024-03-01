@@ -14,9 +14,9 @@
 
 ## Примеры работы чат-бота
 
-<img src="./valid/Test_4.jpg" width=auto height=auto/>
+<img src="./valid/result.png" width=auto height=auto/>
 
-Запуск в колабе: https://colab.research.google.com/drive/15yGyk3K_r-KSFm2ZilEsja0z9fnq8rVl
+Запуск в колабе: [https://colab.research.google.com/drive/15yGyk3K_r-KSFm2ZilEsja0z9fnq8rVl](https://colab.research.google.com/drive/1IaFwWL12LMLIdNgq9u1QCkxL87_a9GAx )
 
 ## Структура репозитория
     ├── data                               # Данные
