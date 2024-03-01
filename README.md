@@ -22,17 +22,11 @@
     ├── data                               # Данные
     ├────── Friends_processed.csv          # Обработанный датасет
     ├────── data.pkl                       # Данные для обучения модели
-    ├── model                              # Модель
-    ├────── tokenizer                      # Дообученный токенайзер модели
-    ├────── charact_corpus.pkl             # Корпус реплик персонажа
-    ├────── friends_model.pkl              # Дообученная модель (доступна по ссылке в отчете)
-    ├── templates                          # Шаблоны html страниц
-    ├────── index.html                     # шаблон главной страницы с ссылками на тесты
     ├── valid                              # Результаты валидации на тестах
     ├── Analysis.ipynb                     # Анализ данных
     ├── Processing.ipynb                   # Обработка данных
     ├── README.md                          # Краткое описание проекта
     ├── Report_ShmelkovYB.pdf              # Отчет
-    ├── inference.py                       # Инференс
+    ├── inference.ipynb                    # Инференс
     ├── requirements.txt                   # Используемые библиотеки с версиями
-    └── train.py                           # Обучение модели
+    └── train.ipynb                        # Обучение модели
