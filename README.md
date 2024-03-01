@@ -34,6 +34,5 @@
     ├── README.md                          # Краткое описание проекта
     ├── Report_ShmelkovYB.pdf              # Отчет
     ├── inference.py                       # Инференс
-    ├── model.py                           # Модель
     ├── requirements.txt                   # Используемые библиотеки с версиями
     └── train.py                           # Обучение модели
