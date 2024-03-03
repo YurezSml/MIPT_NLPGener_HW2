@@ -1,0 +1,15 @@
+tqdm==4.66.2
+numpy==1.25.2
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.1.0+cu121
+einops
+datasets
+bitsandbytes
+accelerate
+transformers==4.38.1
+peft
+bs4
+requests
+nltk==3.8.1
+faiss-cpu
+gradio==4.19.2
