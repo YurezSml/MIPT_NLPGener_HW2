@@ -27,6 +27,7 @@
     ├── Processing.ipynb                   # Обработка данных
     ├── README.md                          # Краткое описание проекта
     ├── Report_ShmelkovYB.pdf              # Отчет
+    ├── app.py                             # Веб интерфейс для huggingface space
     ├── inference.ipynb                    # Инференс
     ├── requirements.txt                   # Используемые библиотеки с версиями
     └── train.ipynb                        # Обучение модели
